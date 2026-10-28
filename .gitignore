@@ -1,0 +1,15 @@
+target/
+.idea/
+*.iml
+logs/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+application-local.yml
+application-local.yaml
+*.pem
+*.key
+*.p12
+*.pfx
